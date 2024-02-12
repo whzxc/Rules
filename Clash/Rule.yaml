@@ -1,4 +1,5 @@
   - RULE-SET, Reject, AdBlock
+  - RULE-SET, Steam, Steam
   - RULE-SET, Special, DIRECT
 
   - RULE-SET, Anti IP, Anti IP
@@ -63,7 +64,6 @@
   - RULE-SET, PayPal, PayPal
   - RULE-SET, Scholar, Scholar
   - RULE-SET, Speedtest, Speedtest
-  - RULE-SET, Steam, Steam
 
   - RULE-SET, miHoYo, miHoYo
 
